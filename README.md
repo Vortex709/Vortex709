@@ -23,7 +23,7 @@ I'm a versatile developer focused on bridging the gap between technical logic an
 ---
 
 ### 📫 Connect with me
-[![Instagram](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/vinart_studios)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vinart_studios)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vinartgamedev.netlify.app/)
 
 ---
